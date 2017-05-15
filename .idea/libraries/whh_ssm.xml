@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="whh-ssm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../whh-ssm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
